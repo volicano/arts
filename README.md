@@ -3,7 +3,7 @@
 ## Algorithm
 完成一个leetcode算法题
 
-+ week01: [1: 两数之和](https://github.com/volicano/arts/blob/master/week1/SingleNumber.md)
++ week01: [1: 两数之和](https://github.com/volicano/arts/blob/master/week01/a_twoSum.md)
 + week2: [7. 反转整数](https://github.com/volicano/arts/blob/master/week2/algorithm.md)
 
 
