@@ -4,7 +4,7 @@
 完成一个leetcode算法题
 
 + week01: [1: 两数之和](https://github.com/volicano/arts/blob/master/week01/a_twoSum.md)
-+ week2: [7. 反转整数](https://github.com/volicano/arts/blob/master/week2/algorithm.md)
++ week02: [7. 反转整数](https://github.com/volicano/arts/blob/master/week2/algorithm.md)
 
 
 ## Review
@@ -24,6 +24,6 @@
 ## Share
 分享一篇有观点和思考的技术文章
 
-+ week01: [关于提高自己技术能力的几点思考](https://github.com/wangweiomg/arts/blob/master/week1/think.md) 
-+ week2: [JVM 内存分块介绍](https://github.com/wangweiomg/arts/blob/master/week2/share.md)
-+ week3: [一些编码坏习惯](https://github.com/wangweiomg/arts/blob/master/week3/share.md)
++ week01: [IT类电子书籍](https://github.com/volicano/arts/blob/master/week01/s_ebookWebsite.md) 
++ week02: [JVM 内存分块介绍](https://github.com/wangweiomg/arts/blob/master/week2/share.md)
++ week03: [一些编码坏习惯](https://github.com/wangweiomg/arts/blob/master/week3/share.md)
