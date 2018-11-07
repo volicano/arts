@@ -4,7 +4,7 @@
 完成一个leetcode算法题
 
 + week01: [1: 两数之和](https://github.com/volicano/arts/blob/master/week01/a_twoSum.md)
-+ week02: [7. 反转整数](https://github.com/volicano/arts/blob/master/week2/algorithm.md)
++ week02: [2. 买卖股票的最佳时机](https://github.com/volicano/arts/blob/master/week02/a_maxProfit.md)
 
 
 ## Review
