@@ -38,7 +38,7 @@ mysql中group_concat()的用法
 
 ![图片](https://images-cdn.shimo.im/WixSmY3rJdMdqFqY/5.jpg!thumbnail)
 
-例如3：我们要查询以name分组的所有组的id和score：
+例3：我们要查询以name分组的所有组的id和score：
 
 ![图片](https://images-cdn.shimo.im/WK6wgGJDzF85a4sx/6.jpg!thumbnail)
 
