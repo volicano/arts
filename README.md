@@ -10,7 +10,7 @@
 ## Review
 阅读并点评一篇英文技术文章
 
-+ week01: [编写好代码的高级技巧](https://github.com/wangweiomg/arts/blob/master/week3/review.md)
++ week01: [软件体系结构 - 体系结构与设计的区别](https://github.com/volicano/arts/blob/master/week01/r_software-architecture.md)
 + week02: [我们的数据 - 怎样阻止科技公司垄断我们的个人信息](https://github.com/wangweiomg/arts/blob/master/week2/review.md)
 
 
