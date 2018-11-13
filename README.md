@@ -17,8 +17,8 @@
 ## Tip
 学习至少一个技术技巧, 最好是实际工作学到的
 
-+ week01: [mysql中group_concat()](https://github.com/volicano/arts/blob/master/week02/t_group_concat.md) 
-+ week02: [ssh 连接远程服务器](https://github.com/wangweiomg/arts/blob/master/week2/tip.md)
++ week01: [mysql中查询重复数据记录](https://github.com/volicano/arts/blob/master/week01/t_repeatdata.md)
++ week02: [mysql中group_concat()](https://github.com/volicano/arts/blob/master/week02/t_group_concat.md) 
 
 
 ## Share

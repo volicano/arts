@@ -1,6 +1,6 @@
 ## ARTS
 
-### Share
+### Tip
 
 mysql中group_concat()的用法
 
