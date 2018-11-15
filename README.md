@@ -11,7 +11,7 @@
 阅读并点评一篇英文技术文章
 
 + week01: [软件体系结构 - 体系结构与设计的区别](https://github.com/volicano/arts/blob/master/week01/r_software-architecture.md)
-+ week02: [我们的数据 - 怎样阻止科技公司垄断我们的个人信息](https://github.com/wangweiomg/arts/blob/master/week2/review.md)
++ week02: [设计模式：门面设计](https://github.com/volicano/arts/blob/master/week02/r_the_facade_pattern.md)
 
 
 ## Tip
@@ -25,6 +25,6 @@
 分享一篇有观点和思考的技术文章
 
 + week01: [IT类电子书籍](https://github.com/volicano/arts/blob/master/week01/s_ebookWebsite.md) 
-+ week02: [IT类电子书籍](https://github.com/volicano/arts/blob/master/week01/s_ebookWebsite.md) 
++ week02: [深入理解PHP内核](https://github.com/volicano/arts/blob/master/week02/s_think_php_internals.md) 
 
 
