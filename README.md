@@ -28,6 +28,6 @@
 
 + week01: [IT类电子书籍](https://github.com/volicano/arts/blob/master/week01/s_ebookWebsite.md) 
 + week02: [深入理解PHP内核](https://github.com/volicano/arts/blob/master/week02/s_think_php_internals.md) 
-+ week02: [超强、超详细Redis数据库入门教程](https://github.com/volicano/arts/blob/master/week03/s_redis.md) 
++ week03: [超强、超详细Redis数据库入门教程](https://github.com/volicano/arts/blob/master/week03/s_redis.md) 
 
 
