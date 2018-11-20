@@ -13,6 +13,7 @@
 
 + week01: [软件体系结构 - 体系结构与设计的区别](https://github.com/volicano/arts/blob/master/week01/r_software-architecture.md)
 + week02: [设计模式：门面设计](https://github.com/volicano/arts/blob/master/week02/r_the_facade_pattern.md)
++ week03: [什么是量子计算机？用一个简单的例子来解释](https://github.com/volicano/arts/blob/master/week03/r_what_quantum_computer.md)
 
 
 ## Tip
