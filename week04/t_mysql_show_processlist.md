@@ -2,7 +2,7 @@
 
 ### Tip
 
-###mysql show processlist中的State的详解
+### mysql show processlist中的State的详解
 
  **Checking table**　
  
