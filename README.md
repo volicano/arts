@@ -7,7 +7,7 @@
 + week02: [2: 买卖股票的最佳时机](https://github.com/volicano/arts/blob/master/week02/a_maxProfit.md)
 + week03: [3: 无重复字符的最长子串的长度](https://github.com/volicano/arts/blob/master/week03/a_lengthOfLongestSubstring.md)
 + week04: [4: 最长回文子串](https://github.com/volicano/arts/blob/master/week04/a_longestPalindrome.md)
-+ week04: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
++ week05: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
 
 
 ## Review
