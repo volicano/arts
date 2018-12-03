@@ -17,6 +17,7 @@
 + week02: [设计模式：门面设计](https://github.com/volicano/arts/blob/master/week02/r_the_facade_pattern.md)
 + week03: [什么是量子计算机？用一个简单的例子来解释](https://github.com/volicano/arts/blob/master/week03/r_what_quantum_computer.md)
 + week04: [科技是如何控制你的生活的](https://github.com/volicano/arts/blob/master/week04/r_technology_and_life.md)
++ week05: [Linux在2019年会有什么期待](https://github.com/volicano/arts/blob/master/week05/r_2019_linux.md)
 
 
 ## Tip
