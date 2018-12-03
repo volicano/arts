@@ -7,6 +7,7 @@
 + week02: [2: 买卖股票的最佳时机](https://github.com/volicano/arts/blob/master/week02/a_maxProfit.md)
 + week03: [3: 无重复字符的最长子串的长度](https://github.com/volicano/arts/blob/master/week03/a_lengthOfLongestSubstring.md)
 + week04: [4: 最长回文子串](https://github.com/volicano/arts/blob/master/week04/a_longestPalindrome.md)
++ week04: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
 
 
 ## Review
@@ -25,6 +26,7 @@
 + week02: [mysql中group_concat()](https://github.com/volicano/arts/blob/master/week02/t_group_concat.md) 
 + week03: [mysql中varchar(n)中的n的大小对性能有影响吗？](https://github.com/volicano/arts/blob/master/week03/t_mysql_varchar.md) 
 + week04: [mysql show processlist中的State的详解](https://github.com/volicano/arts/blob/master/week04/t_mysql_show_processlist.md) 
++ week05: [InnoDB引擎的锁机制](https://github.com/volicano/arts/blob/master/week05/t_mysql_innodb_lock.md) 
 
 
 ## Share
