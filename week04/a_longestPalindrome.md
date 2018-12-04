@@ -33,7 +33,7 @@ Output: "bb"
 ### 第一版代码
 求回文子串，毫无疑问需要每个字符遍历一遍，分别求出来各个字符的回文长度，然后选出最长的那一个。
 ```
-function palindrome($str)
+function longestPalindrome($str)
 {   
     $n = strlen($str);
     $pos = 0;
