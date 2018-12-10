@@ -8,6 +8,7 @@
 + week03: [3: 无重复字符的最长子串的长度](https://github.com/volicano/arts/blob/master/week03/a_lengthOfLongestSubstring.md)
 + week04: [4: 最长回文子串](https://github.com/volicano/arts/blob/master/week04/a_longestPalindrome.md)
 + week05: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
++ week06: [6: 查找第一个没有重复的数组元素](https://github.com/volicano/arts/blob/master/week06/a_firstNonRepeating.md)
 
 
 ## Review
@@ -18,6 +19,7 @@
 + week03: [什么是量子计算机？用一个简单的例子来解释](https://github.com/volicano/arts/blob/master/week03/r_what_quantum_computer.md)
 + week04: [科技是如何控制你的生活的](https://github.com/volicano/arts/blob/master/week04/r_technology_and_life.md)
 + week05: [Linux在2019年会有什么期待](https://github.com/volicano/arts/blob/master/week05/r_2019_linux.md)
++ week06: [持续交付](https://github.com/volicano/arts/blob/master/week06/r_continuous_delivery.md)
 
 
 ## Tip
@@ -28,6 +30,7 @@
 + week03: [mysql中varchar(n)中的n的大小对性能有影响吗？](https://github.com/volicano/arts/blob/master/week03/t_mysql_varchar.md) 
 + week04: [mysql show processlist中的State的详解](https://github.com/volicano/arts/blob/master/week04/t_mysql_show_processlist.md) 
 + week05: [InnoDB引擎的锁机制](https://github.com/volicano/arts/blob/master/week05/t_mysql_innodb_lock.md) 
++ week06: [VirtualBox安装Ubuntu 16.04 Server版出错](https://github.com/volicano/arts/blob/master/week06/t_install_ubuntu.md) 
 
 
 ## Share
@@ -38,5 +41,6 @@
 + week03: [超强、超详细Redis数据库入门教程](https://github.com/volicano/arts/blob/master/week03/s_redis.md) 
 + week04: [架构设计与原则](https://github.com/volicano/arts/blob/master/week04/s_architectural_design_principles.md) 
 + week05: [Docker—从入门到实践](https://github.com/volicano/arts/blob/master/week05/s_docker.md) 
++ week06: [阶段性小感](https://github.com/volicano/arts/blob/master/week06/s_feel.md) 
 
 
