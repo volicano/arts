@@ -44,5 +44,5 @@
 + week04: [架构设计与原则](https://github.com/volicano/arts/blob/master/week04/s_architectural_design_principles.md) 
 + week05: [Docker—从入门到实践](https://github.com/volicano/arts/blob/master/week05/s_docker.md) 
 + week06: [阶段性小感](https://github.com/volicano/arts/blob/master/week06/s_feel.md) 
-
++ week07: [Linux那些事儿](https://github.com/volicano/arts/blob/master/week07/s_linux.md) 
 
