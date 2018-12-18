@@ -9,6 +9,7 @@
 + week04: [4: 最长回文子串](https://github.com/volicano/arts/blob/master/week04/a_longestPalindrome.md)
 + week05: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
 + week06: [6: 查找第一个没有重复的数组元素](https://github.com/volicano/arts/blob/master/week06/a_firstNonRepeating.md)
++ week07: [7: 合并两个排序的数组](https://github.com/volicano/arts/blob/master/week07/a_mergeArrays.md)
 
 
 ## Review
@@ -31,6 +32,7 @@
 + week04: [mysql show processlist中的State的详解](https://github.com/volicano/arts/blob/master/week04/t_mysql_show_processlist.md) 
 + week05: [InnoDB引擎的锁机制](https://github.com/volicano/arts/blob/master/week05/t_mysql_innodb_lock.md) 
 + week06: [VirtualBox安装Ubuntu 16.04 Server版出错](https://github.com/volicano/arts/blob/master/week06/t_install_ubuntu.md) 
++ week07: [三种修改数据库引擎的方式](https://github.com/volicano/arts/blob/master/week07/t_mysql_engine.md) 
 
 
 ## Share
