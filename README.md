@@ -21,6 +21,7 @@
 + week04: [科技是如何控制你的生活的](https://github.com/volicano/arts/blob/master/week04/r_technology_and_life.md)
 + week05: [Linux在2019年会有什么期待](https://github.com/volicano/arts/blob/master/week05/r_2019_linux.md)
 + week06: [持续交付](https://github.com/volicano/arts/blob/master/week06/r_continuous_delivery.md)
++ week07: [搜索的中立性](https://github.com/volicano/arts/blob/master/week07/r_Search_Neutrality.md)
 
 
 ## Tip
