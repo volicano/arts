@@ -10,6 +10,7 @@
 + week05: [5: 找到数组中的最小和第二小元素](https://github.com/volicano/arts/blob/master/week05/a_find2Smallest.md)
 + week06: [6: 查找第一个没有重复的数组元素](https://github.com/volicano/arts/blob/master/week06/a_firstNonRepeating.md)
 + week07: [7: 合并两个排序的数组](https://github.com/volicano/arts/blob/master/week07/a_mergeArrays.md)
++ week08: [8: 二分搜索的PHP实现](https://github.com/volicano/arts/blob/master/week08/a_binary_Search.md)
 
 
 ## Review
@@ -46,4 +47,4 @@
 + week05: [Docker—从入门到实践](https://github.com/volicano/arts/blob/master/week05/s_docker.md) 
 + week06: [阶段性小感](https://github.com/volicano/arts/blob/master/week06/s_feel.md) 
 + week07: [Linux那些事儿](https://github.com/volicano/arts/blob/master/week07/s_linux.md) 
-
++ week07: [详解b+树](https://github.com/volicano/arts/blob/master/week08/s_btree.md) 

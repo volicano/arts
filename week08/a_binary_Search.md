@@ -2,7 +2,8 @@
 
 ### Algorithm
 
-### 题目：
+### 题目：二分搜索的实现（PHP）
+
 首先，维基百科了下定义：
 >在[计算机科学](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)中，**二分搜索**（英语：binary search），也称**折半搜索**（英语：half-interval search）[[1]](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95#cite_note-1)、**对数搜索**（英语：logarithmic search）[[2]](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95#cite_note-FOOTNOTEKnuth1998%C2%A76.2.1_(%22Searching_an_ordered_table%22),_subsection_%22Binary_search%22-2)，是一种在[有序数组](https://zh.wikipedia.org/wiki/%E6%9C%89%E5%BA%8F%E6%95%B0%E5%AF%B9)中查找某一特定元素的搜索[算法](https://zh.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E6%B3%95)。搜索过程从数组的中间元素开始，如果中间元素正好是要查找的元素，则搜索过程结束；如果某一特定元素大于或者小于中间元素，则在数组大于或小于中间元素的那一半中查找，而且跟开始一样从中间元素开始比较。如果在某一步骤数组为空，则代表找不到。这种搜索算法每一次比较都使搜索范围缩小一半。  
 
