@@ -23,6 +23,7 @@
 + week05: [Linux在2019年会有什么期待](https://github.com/volicano/arts/blob/master/week05/r_2019_linux.md)
 + week06: [持续交付](https://github.com/volicano/arts/blob/master/week06/r_continuous_delivery.md)
 + week07: [搜索的中立性](https://github.com/volicano/arts/blob/master/week07/r_Search_Neutrality.md)
++ week08: [MySQL数据库水平扩展解决方案](https://github.com/volicano/arts/blob/master/week08/r_Horizontal_Scaling.md)
 
 
 ## Tip
