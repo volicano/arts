@@ -35,6 +35,7 @@
 + week05: [InnoDB引擎的锁机制](https://github.com/volicano/arts/blob/master/week05/t_mysql_innodb_lock.md) 
 + week06: [VirtualBox安装Ubuntu 16.04 Server版出错](https://github.com/volicano/arts/blob/master/week06/t_install_ubuntu.md) 
 + week07: [三种修改数据库引擎的方式](https://github.com/volicano/arts/blob/master/week07/t_mysql_engine.md) 
++ week08: [获取连接到服务器的IP地址命令](https://github.com/volicano/arts/blob/master/week08/t_find_client_ip.md) 
 
 
 ## Share
