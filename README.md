@@ -11,6 +11,7 @@
 + week06: [6: 查找第一个没有重复的数组元素](https://github.com/volicano/arts/blob/master/week06/a_firstNonRepeating.md)
 + week07: [7: 合并两个排序的数组](https://github.com/volicano/arts/blob/master/week07/a_mergeArrays.md)
 + week08: [8: 二分搜索的PHP实现](https://github.com/volicano/arts/blob/master/week08/a_binary_Search.md)
++ week09: [9: 求一个函数的实现](https://github.com/volicano/arts/blob/master/week09/a_function.md)
 
 
 ## Review
@@ -50,3 +51,4 @@
 + week06: [阶段性小感](https://github.com/volicano/arts/blob/master/week06/s_feel.md) 
 + week07: [Linux那些事儿](https://github.com/volicano/arts/blob/master/week07/s_linux.md) 
 + week08: [详解b+树](https://github.com/volicano/arts/blob/master/week08/s_btree.md) 
++ week09: [《如何阅读一本书》—书评及内容纲要](https://github.com/volicano/arts/blob/master/week09/s_how_reading.md) 
