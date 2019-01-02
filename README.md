@@ -25,6 +25,7 @@
 + week06: [持续交付](https://github.com/volicano/arts/blob/master/week06/r_continuous_delivery.md)
 + week07: [搜索的中立性](https://github.com/volicano/arts/blob/master/week07/r_Search_Neutrality.md)
 + week08: [MySQL数据库水平扩展解决方案](https://github.com/volicano/arts/blob/master/week08/r_Horizontal_Scaling.md)
++ week09: [如何准备一场演讲第一部分：动机](https://github.com/volicano/arts/blob/master/week09/r_how_preparing_tech_talk.md)
 
 
 ## Tip
