@@ -13,6 +13,7 @@
 + week08: [8: 二分搜索的PHP实现](https://github.com/volicano/arts/blob/master/week08/a_binary_Search.md)
 + week09: [9: 求一个函数的实现](https://github.com/volicano/arts/blob/master/week09/a_function.md)
 + week10: [10：盛最多水的容器](https://github.com/volicano/arts/blob/master/week10/a_maxArea.md)
++ week11: [11：有效的括号](https://github.com/volicano/arts/blob/master/week11/a_isValid.md)
 
 
 ## Review
@@ -42,6 +43,7 @@
 + week07: [三种修改数据库引擎的方式](https://github.com/volicano/arts/blob/master/week07/t_mysql_engine.md) 
 + week08: [获取连接到服务器的IP地址命令](https://github.com/volicano/arts/blob/master/week08/t_find_client_ip.md) 
 + week09: [mysql中if()函数使用](https://github.com/volicano/arts/blob/master/week09/t_mysql_if.md) 
++ week10: [win7激活工具](https://github.com/volicano/arts/blob/master/week10/t_win7_active.md) 
 
 
 ## Share
@@ -55,4 +57,6 @@
 + week06: [阶段性小感](https://github.com/volicano/arts/blob/master/week06/s_feel.md) 
 + week07: [Linux那些事儿](https://github.com/volicano/arts/blob/master/week07/s_linux.md) 
 + week08: [详解b+树](https://github.com/volicano/arts/blob/master/week08/s_btree.md) 
-+ week09: [《如何阅读一本书》—书评及内容纲要](https://github.com/volicano/arts/blob/master/week09/s_how_reading.md) 
++ week09: [《如何阅读一本书》—书评及内容纲要](https://github.com/volicano/arts/blob/master/week09/s_how_reading.md)
++ week10: [工作流核心模型图](https://github.com/volicano/arts/blob/master/week10/s_workflow.md)  
++ week11: [scannow扫描修复系统文件命令](https://github.com/volicano/arts/blob/master/week11/s_scannow.md)  
