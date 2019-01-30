@@ -29,6 +29,7 @@
 + week08: [MySQL数据库水平扩展解决方案](https://github.com/volicano/arts/blob/master/week08/r_Horizontal_Scaling.md)
 + week09: [如何准备一场演讲第一部分：动机](https://github.com/volicano/arts/blob/master/week09/r_how_preparing_tech_talk.md)
 + week10: [这些技术在2019年将被定义](https://github.com/volicano/arts/blob/master/week10/r_2019_teach_defind.md)
++ week11: [科技类相关英语词汇](https://github.com/volicano/arts/blob/master/week11/r_technical_word.md)
 
 
 ## Tip
@@ -44,6 +45,8 @@
 + week08: [获取连接到服务器的IP地址命令](https://github.com/volicano/arts/blob/master/week08/t_find_client_ip.md) 
 + week09: [mysql中if()函数使用](https://github.com/volicano/arts/blob/master/week09/t_mysql_if.md) 
 + week10: [win7激活工具](https://github.com/volicano/arts/blob/master/week10/t_win7_active.md) 
++ week11: [批量请求海量数据](https://github.com/volicano/arts/blob/master/week11/t_do_data.md) 
+
 
 
 ## Share
