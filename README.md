@@ -14,6 +14,8 @@
 + week09: [9: 求一个函数的实现](https://github.com/volicano/arts/blob/master/week09/a_function.md)
 + week10: [10：盛最多水的容器](https://github.com/volicano/arts/blob/master/week10/a_maxArea.md)
 + week11: [11：有效的括号](https://github.com/volicano/arts/blob/master/week11/a_isValid.md)
++ week12: [12：回文数](https://github.com/volicano/arts/blob/master/week12/a_isPalindrome.md)
++ week13: [13：最长公共前缀](https://github.com/volicano/arts/blob/master/week13/a_longestCommonPrefix.md)
 
 
 ## Review
@@ -30,6 +32,8 @@
 + week09: [如何准备一场演讲第一部分：动机](https://github.com/volicano/arts/blob/master/week09/r_how_preparing_tech_talk.md)
 + week10: [这些技术在2019年将被定义](https://github.com/volicano/arts/blob/master/week10/r_2019_teach_defind.md)
 + week11: [科技类相关英语词汇](https://github.com/volicano/arts/blob/master/week11/r_technical_word.md)
++ week12: [google在做减法？](https://github.com/volicano/arts/blob/master/week12/r_google_about.md)
++ week13: [成为作家的25忠告](https://github.com/volicano/arts/blob/master/week13/r_25tip_writer.md)
 
 
 ## Tip
@@ -46,6 +50,8 @@
 + week09: [mysql中if()函数使用](https://github.com/volicano/arts/blob/master/week09/t_mysql_if.md) 
 + week10: [win7激活工具](https://github.com/volicano/arts/blob/master/week10/t_win7_active.md) 
 + week11: [批量请求海量数据](https://github.com/volicano/arts/blob/master/week11/t_do_data.md) 
++ week12: [什么是好的api设计](https://github.com/volicano/arts/blob/master/week12/t_api_design.md) 
++ week13: [windows10下安装docker](https://github.com/volicano/arts/blob/master/week13/t_window_docker.md) 
 
 
 
@@ -62,4 +68,7 @@
 + week08: [详解b+树](https://github.com/volicano/arts/blob/master/week08/s_btree.md) 
 + week09: [《如何阅读一本书》—书评及内容纲要](https://github.com/volicano/arts/blob/master/week09/s_how_reading.md)
 + week10: [工作流核心模型图](https://github.com/volicano/arts/blob/master/week10/s_workflow.md)  
-+ week11: [scannow扫描修复系统文件命令](https://github.com/volicano/arts/blob/master/week11/s_scannow.md)  
++ week11: [scannow扫描修复系统文件命令](https://github.com/volicano/arts/blob/master/week11/s_scannow.md)
++ week12: [建一支强大的小团队](https://github.com/volicano/arts/blob/master/week12/s_good_team.md)
++ week13: [Jenkins+phpunit+laravel单元测试文档](https://github.com/volicano/arts/blob/master/week13/s_Jenkins+phpunit.md)
+      
