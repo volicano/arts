@@ -1,6 +1,6 @@
 ## ARTS
 
-### Tip
+### Share
 
 ## 安装elasticsearch-head
 
