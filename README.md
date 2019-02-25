@@ -18,6 +18,7 @@
 + week13: [13：最长公共前缀](https://github.com/volicano/arts/blob/master/week13/a_longestCommonPrefix.md)
 + week14: [14：最后一个单词的长度](https://github.com/volicano/arts/blob/master/week14/a_lengthOfLastWord.md)
 + week15: [15：爬楼梯](https://github.com/volicano/arts/blob/master/week15/a_climbStairs.md)
++ week16: [16：最大子序和](https://github.com/volicano/arts/blob/master/week16/a_maxSubArray.md)
 
 
 ## Review
@@ -38,6 +39,7 @@
 + week13: [成为作家的25个忠告](https://github.com/volicano/arts/blob/master/week13/r_25tip_writer.md)
 + week14: [尝试不使用if语句编码](https://github.com/volicano/arts/blob/master/week14/r_try_without_if_statements.md)
 + week15: [无密码短信认证：基础知识](https://github.com/volicano/arts/blob/master/week15/r_passwordless_sms_authentication.md)
++ week16: [敏捷更多的是效率](https://github.com/volicano/arts/blob/master/week16/r_agility_efficiency.md)
 
 
 ## Tip
@@ -58,6 +60,7 @@
 + week13: [windows10下安装docker](https://github.com/volicano/arts/blob/master/week13/t_window_docker.md) 
 + week14: [MySQL的Limit详解](https://github.com/volicano/arts/blob/master/week14/t_mysql_limit.md) 
 + week15: [mysql查询结果中新增一个字段](https://github.com/volicano/arts/blob/master/week15/t_mysql_new_cloumn.md) 
++ week16: [字符编码--介绍](https://github.com/volicano/arts/blob/master/week16/t_unicode.md) 
 
 
 ## Share
