@@ -19,6 +19,7 @@
 + week14: [14：最后一个单词的长度](https://github.com/volicano/arts/blob/master/week14/a_lengthOfLastWord.md)
 + week15: [15：爬楼梯](https://github.com/volicano/arts/blob/master/week15/a_climbStairs.md)
 + week16: [16：最大子序和](https://github.com/volicano/arts/blob/master/week16/a_maxSubArray.md)
++ week17: [17：子集](https://github.com/volicano/arts/blob/master/week17/a_subSets.md)
 
 
 ## Review
@@ -61,6 +62,7 @@
 + week14: [MySQL的Limit详解](https://github.com/volicano/arts/blob/master/week14/t_mysql_limit.md) 
 + week15: [mysql查询结果中新增一个字段](https://github.com/volicano/arts/blob/master/week15/t_mysql_new_cloumn.md) 
 + week16: [字符编码--介绍](https://github.com/volicano/arts/blob/master/week16/t_unicode.md) 
++ week17: [win查看端口占用情况](https://github.com/volicano/arts/blob/master/week17/t_win_port.md) 
 
 
 ## Share
@@ -81,4 +83,5 @@
 + week13: [Jenkins+phpunit+laravel单元测试文档](https://github.com/volicano/arts/blob/master/week13/s_Jenkins+phpunit.md)
 + week14: [安装elasticsearch-head](https://github.com/volicano/arts/blob/master/week14/s_es_head.md)
 + week15: [为什么要工程师文化](https://github.com/volicano/arts/blob/master/week15/s_engineer_culture.md)
-          
++ week17: [Git常用命令](https://github.com/volicano/arts/blob/master/week17/s_git_cmd.md)
+             
