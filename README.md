@@ -41,6 +41,7 @@
 + week14: [尝试不使用if语句编码](https://github.com/volicano/arts/blob/master/week14/r_try_without_if_statements.md)
 + week15: [无密码短信认证：基础知识](https://github.com/volicano/arts/blob/master/week15/r_passwordless_sms_authentication.md)
 + week16: [敏捷更多的是效率](https://github.com/volicano/arts/blob/master/week16/r_agility_efficiency.md)
++ week17: [DDOS攻击会破坏服务器吗？](https://github.com/volicano/arts/blob/master/week17/r_ddos.md)
 
 
 ## Tip
@@ -83,5 +84,6 @@
 + week13: [Jenkins+phpunit+laravel单元测试文档](https://github.com/volicano/arts/blob/master/week13/s_Jenkins+phpunit.md)
 + week14: [安装elasticsearch-head](https://github.com/volicano/arts/blob/master/week14/s_es_head.md)
 + week15: [为什么要工程师文化](https://github.com/volicano/arts/blob/master/week15/s_engineer_culture.md)
++ week16: [Mysql规范](https://github.com/volicano/arts/blob/master/week16/s_mysql_norm.md)
 + week17: [Git常用命令](https://github.com/volicano/arts/blob/master/week17/s_git_cmd.md)
              
