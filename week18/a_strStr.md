@@ -51,7 +51,7 @@ function strStr($haystack, $needle) {
 }
 ```
 
-虽然是个简单题目但是复杂度感觉很高。
+虽然是个简单题目但是复杂度感觉不简单。
 
 思路：假设现在文本串haystack匹配到 i 位置，模式串needle匹配到 j 位置，则有：
 
