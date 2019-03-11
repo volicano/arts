@@ -89,4 +89,5 @@
 + week15: [为什么要工程师文化](https://github.com/volicano/arts/blob/master/week15/s_engineer_culture.md)
 + week16: [Mysql规范](https://github.com/volicano/arts/blob/master/week16/s_mysql_norm.md)
 + week17: [Git常用命令](https://github.com/volicano/arts/blob/master/week17/s_git_cmd.md)
-             
++ week18: [如何写好周报的思考](https://github.com/volicano/arts/blob/master/week18/s_week_report.md)
+              
