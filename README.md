@@ -20,6 +20,7 @@
 + week15: [15：爬楼梯](https://github.com/volicano/arts/blob/master/week15/a_climbStairs.md)
 + week16: [16：最大子序和](https://github.com/volicano/arts/blob/master/week16/a_maxSubArray.md)
 + week17: [17：子集](https://github.com/volicano/arts/blob/master/week17/a_subSets.md)
++ week18: [18：实现strStr()](https://github.com/volicano/arts/blob/master/week18/a_strStr.md)
 
 
 ## Review
@@ -42,6 +43,7 @@
 + week15: [无密码短信认证：基础知识](https://github.com/volicano/arts/blob/master/week15/r_passwordless_sms_authentication.md)
 + week16: [敏捷更多的是效率](https://github.com/volicano/arts/blob/master/week16/r_agility_efficiency.md)
 + week17: [DDOS攻击会破坏服务器吗？](https://github.com/volicano/arts/blob/master/week17/r_ddos.md)
++ week18: [如何在科技公司内部建立创新文化](https://github.com/volicano/arts/blob/master/week18/r_create_culture.md)
 
 
 ## Tip
@@ -64,6 +66,7 @@
 + week15: [mysql查询结果中新增一个字段](https://github.com/volicano/arts/blob/master/week15/t_mysql_new_cloumn.md) 
 + week16: [字符编码--介绍](https://github.com/volicano/arts/blob/master/week16/t_unicode.md) 
 + week17: [win查看端口占用情况](https://github.com/volicano/arts/blob/master/week17/t_win_port.md) 
++ week18: [查看和替换（正则）](https://github.com/volicano/arts/blob/master/week18/t_find_replace.md) 
 
 
 ## Share
