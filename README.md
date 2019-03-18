@@ -21,6 +21,7 @@
 + week16: [16：最大子序和](https://github.com/volicano/arts/blob/master/week16/a_maxSubArray.md)
 + week17: [17：子集](https://github.com/volicano/arts/blob/master/week17/a_subSets.md)
 + week18: [18：实现strStr()](https://github.com/volicano/arts/blob/master/week18/a_strStr.md)
++ week19: [19：汉诺塔](https://github.com/volicano/arts/blob/master/week19/a_.md)
 
 
 ## Review
@@ -44,6 +45,7 @@
 + week16: [敏捷更多的是效率](https://github.com/volicano/arts/blob/master/week16/r_agility_efficiency.md)
 + week17: [DDOS攻击会破坏服务器吗？](https://github.com/volicano/arts/blob/master/week17/r_ddos.md)
 + week18: [如何在科技公司内部建立创新文化](https://github.com/volicano/arts/blob/master/week18/r_create_culture.md)
++ week19: [为了效率你不应该做的7件事](https://github.com/volicano/arts/blob/master/week19/r_efficient.md)
 
 
 ## Tip
@@ -67,6 +69,7 @@
 + week16: [字符编码--介绍](https://github.com/volicano/arts/blob/master/week16/t_unicode.md) 
 + week17: [win查看端口占用情况](https://github.com/volicano/arts/blob/master/week17/t_win_port.md) 
 + week18: [查看和替换（正则）](https://github.com/volicano/arts/blob/master/week18/t_find_replace.md) 
++ week19: [MySQL性能优化神器Explain使用分析](https://github.com/volicano/arts/blob/master/week19/t_mysql_explain.md) 
 
 
 ## Share
@@ -90,4 +93,5 @@
 + week16: [Mysql规范](https://github.com/volicano/arts/blob/master/week16/s_mysql_norm.md)
 + week17: [Git常用命令](https://github.com/volicano/arts/blob/master/week17/s_git_cmd.md)
 + week18: [如何写好周报的思考](https://github.com/volicano/arts/blob/master/week18/s_week_report.md)
-              
++ week19: [更高效的工作方法:工作杠杆率](https://github.com/volicano/arts/blob/master/week19/s_work_efficiency.md)
+               
