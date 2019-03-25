@@ -21,7 +21,8 @@
 + week16: [16：最大子序和](https://github.com/volicano/arts/blob/master/week16/a_maxSubArray.md)
 + week17: [17：子集](https://github.com/volicano/arts/blob/master/week17/a_subSets.md)
 + week18: [18：实现strStr()](https://github.com/volicano/arts/blob/master/week18/a_strStr.md)
-+ week19: [19：汉诺塔](https://github.com/volicano/arts/blob/master/week19/a_.md)
++ week19: [19：汉诺塔](https://github.com/volicano/arts/blob/master/week19/a_hanoi.md)
++ week20: [20：移除元素](https://github.com/volicano/arts/blob/master/week20/a_removeElement.md)
 
 
 ## Review
@@ -46,6 +47,7 @@
 + week17: [DDOS攻击会破坏服务器吗？](https://github.com/volicano/arts/blob/master/week17/r_ddos.md)
 + week18: [如何在科技公司内部建立创新文化](https://github.com/volicano/arts/blob/master/week18/r_create_culture.md)
 + week19: [为了效率你不应该做的7件事](https://github.com/volicano/arts/blob/master/week19/r_efficient.md)
++ week20: [“攻击”麻省理工技术评论网站获得无限制访问](https://github.com/volicano/arts/blob/master/week20/r_hacking.md)
 
 
 ## Tip
@@ -70,6 +72,7 @@
 + week17: [win查看端口占用情况](https://github.com/volicano/arts/blob/master/week17/t_win_port.md) 
 + week18: [查看和替换（正则）](https://github.com/volicano/arts/blob/master/week18/t_find_replace.md) 
 + week19: [MySQL性能优化神器Explain使用分析](https://github.com/volicano/arts/blob/master/week19/t_mysql_explain.md) 
++ week20: [MySQL·最佳实践·一个“异常”的索引选择](https://github.com/volicano/arts/blob/master/week20/t_mysql_actual_combat.md) 
 
 
 ## Share
