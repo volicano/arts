@@ -97,4 +97,5 @@
 + week17: [Git常用命令](https://github.com/volicano/arts/blob/master/week17/s_git_cmd.md)
 + week18: [如何写好周报的思考](https://github.com/volicano/arts/blob/master/week18/s_week_report.md)
 + week19: [更高效的工作方法:工作杠杆率](https://github.com/volicano/arts/blob/master/week19/s_work_efficiency.md)
-               
++ week20: [如何有效地学习](https://github.com/volicano/arts/blob/master/week20/s_learning.md)
+                  
