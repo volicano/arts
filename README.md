@@ -23,6 +23,8 @@
 + week18: [18：实现strStr()](https://github.com/volicano/arts/blob/master/week18/a_strStr.md)
 + week19: [19：汉诺塔](https://github.com/volicano/arts/blob/master/week19/a_hanoi.md)
 + week20: [20：移除元素](https://github.com/volicano/arts/blob/master/week20/a_removeElement.md)
++ week21: [21：冒泡排序](https://github.com/volicano/arts/blob/master/week21/a_bubbling_sort.md)
++ week22: [22：选择排序](https://github.com/volicano/arts/blob/master/week22/a_select_sort.md)
 
 
 ## Review
@@ -48,6 +50,8 @@
 + week18: [如何在科技公司内部建立创新文化](https://github.com/volicano/arts/blob/master/week18/r_create_culture.md)
 + week19: [为了效率你不应该做的7件事](https://github.com/volicano/arts/blob/master/week19/r_efficient.md)
 + week20: [“攻击”麻省理工技术评论网站获得无限制访问](https://github.com/volicano/arts/blob/master/week20/r_hacking.md)
++ week21: [帮助孩子安全上网的10条建议](https://github.com/volicano/arts/blob/master/week21/r_safe_online.md)
++ week22: [你有什么价值?](https://github.com/volicano/arts/blob/master/week22/r_value.md)
 
 
 ## Tip
@@ -73,6 +77,8 @@
 + week18: [查看和替换（正则）](https://github.com/volicano/arts/blob/master/week18/t_find_replace.md) 
 + week19: [MySQL性能优化神器Explain使用分析](https://github.com/volicano/arts/blob/master/week19/t_mysql_explain.md) 
 + week20: [MySQL·最佳实践·一个“异常”的索引选择](https://github.com/volicano/arts/blob/master/week20/t_mysql_actual_combat.md) 
++ week21: [悲观锁和乐观锁](https://github.com/volicano/arts/blob/master/week21/t_mysql_locked.md) 
++ week22: [聚集和非聚集索引](https://github.com/volicano/arts/blob/master/week22/t_mysql_cluster.md) 
 
 
 ## Share
