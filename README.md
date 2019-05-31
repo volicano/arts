@@ -25,6 +25,8 @@
 + week20: [20：移除元素](https://github.com/volicano/arts/blob/master/week20/a_removeElement.md)
 + week21: [21：冒泡排序](https://github.com/volicano/arts/blob/master/week21/a_bubbling_sort.md)
 + week22: [22：选择排序](https://github.com/volicano/arts/blob/master/week22/a_select_sort.md)
++ week23: [23：PHP实现九九乘法表](https://github.com/volicano/arts/blob/master/week23/a_times_tables.md)
++ week24: [24：斐波那契函数实现](https://github.com/volicano/arts/blob/master/week24/a_fib.md)
 
 
 ## Review
@@ -79,6 +81,8 @@
 + week20: [MySQL·最佳实践·一个“异常”的索引选择](https://github.com/volicano/arts/blob/master/week20/t_mysql_actual_combat.md) 
 + week21: [悲观锁和乐观锁](https://github.com/volicano/arts/blob/master/week21/t_mysql_locked.md) 
 + week22: [聚集和非聚集索引](https://github.com/volicano/arts/blob/master/week22/t_mysql_cluster.md) 
++ week23: [Packagist镜像使用方法](https://github.com/volicano/arts/blob/master/week23/t_composer.md) 
++ week24: [数据库操作行为规范](https://github.com/volicano/arts/blob/master/week24/t_mysql_op_rule.md) 
 
 
 ## Share
@@ -104,4 +108,7 @@
 + week18: [如何写好周报的思考](https://github.com/volicano/arts/blob/master/week18/s_week_report.md)
 + week19: [更高效的工作方法:工作杠杆率](https://github.com/volicano/arts/blob/master/week19/s_work_efficiency.md)
 + week20: [如何有效地学习](https://github.com/volicano/arts/blob/master/week20/s_learning.md)
-                  
++ week21: [寒窑赋 (全文)](https://github.com/volicano/arts/blob/master/week21/s_hyf.md)
++ week23: [shell命令帮助](https://github.com/volicano/arts/blob/master/week23/s_cmd.md)
++ week24: [经典数据结构B树与B+树](https://github.com/volicano/arts/blob/master/week24/s_btree.md)
+                 
