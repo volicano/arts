@@ -54,6 +54,8 @@
 + week20: [“攻击”麻省理工技术评论网站获得无限制访问](https://github.com/volicano/arts/blob/master/week20/r_hacking.md)
 + week21: [帮助孩子安全上网的10条建议](https://github.com/volicano/arts/blob/master/week21/r_safe_online.md)
 + week22: [你有什么价值?](https://github.com/volicano/arts/blob/master/week22/r_value.md)
++ week23: [laravel依赖注入](https://github.com/volicano/arts/blob/master/week23/r_laravel_1.md)
++ week24: [laravel控制反转容器?](https://github.com/volicano/arts/blob/master/week24/r_laravel_2.md)
 
 
 ## Tip
