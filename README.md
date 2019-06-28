@@ -27,6 +27,7 @@
 + week22: [22：选择排序](https://github.com/volicano/arts/blob/master/week22/a_select_sort.md)
 + week23: [23：PHP实现九九乘法表](https://github.com/volicano/arts/blob/master/week23/a_times_tables.md)
 + week24: [24：斐波那契函数实现](https://github.com/volicano/arts/blob/master/week24/a_fib.md)
++ week25: [25：php队列实现](https://github.com/volicano/arts/blob/master/week25/a_queue.md)
 
 
 ## Review
@@ -56,6 +57,7 @@
 + week22: [你有什么价值?](https://github.com/volicano/arts/blob/master/week22/r_value.md)
 + week23: [laravel依赖注入](https://github.com/volicano/arts/blob/master/week23/r_laravel_1.md)
 + week24: [laravel控制反转容器?](https://github.com/volicano/arts/blob/master/week24/r_laravel_2.md)
++ week25: [laravel接口约定](https://github.com/volicano/arts/blob/master/week25/r_laravel_3.md)
 
 
 ## Tip
@@ -85,6 +87,7 @@
 + week22: [聚集和非聚集索引](https://github.com/volicano/arts/blob/master/week22/t_mysql_cluster.md) 
 + week23: [Packagist镜像使用方法](https://github.com/volicano/arts/blob/master/week23/t_composer.md) 
 + week24: [数据库操作行为规范](https://github.com/volicano/arts/blob/master/week24/t_mysql_op_rule.md) 
++ week25: [Windows10下(开启)关闭Hyper-V服务](https://github.com/volicano/arts/blob/master/week25/t_hyper-v.md) 
 
 
 ## Share
