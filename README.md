@@ -28,6 +28,7 @@
 + week23: [23：PHP实现九九乘法表](https://github.com/volicano/arts/blob/master/week23/a_times_tables.md)
 + week24: [24：斐波那契函数实现](https://github.com/volicano/arts/blob/master/week24/a_fib.md)
 + week25: [25：php队列实现](https://github.com/volicano/arts/blob/master/week25/a_queue.md)
++ week26: [26：归并排序](https://github.com/volicano/arts/blob/master/week26/a_mergeSort.md)
 
 
 ## Review
@@ -58,6 +59,7 @@
 + week23: [laravel依赖注入](https://github.com/volicano/arts/blob/master/week23/r_laravel_1.md)
 + week24: [laravel控制反转容器?](https://github.com/volicano/arts/blob/master/week24/r_laravel_2.md)
 + week25: [laravel接口约定](https://github.com/volicano/arts/blob/master/week25/r_laravel_3.md)
++ week26: [服务提供者](https://github.com/volicano/arts/blob/master/week25/r_laravel_4.md)
 
 
 ## Tip
