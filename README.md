@@ -90,6 +90,7 @@
 + week23: [Packagist镜像使用方法](https://github.com/volicano/arts/blob/master/week23/t_composer.md) 
 + week24: [数据库操作行为规范](https://github.com/volicano/arts/blob/master/week24/t_mysql_op_rule.md) 
 + week25: [Windows10下(开启)关闭Hyper-V服务](https://github.com/volicano/arts/blob/master/week25/t_hyper-v.md) 
++ week26: [notepad++排序和去重](https://github.com/volicano/arts/blob/master/week26/t_notepad.md) 
 
 
 ## Share
