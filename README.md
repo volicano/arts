@@ -61,7 +61,7 @@
 + week25: [laravel接口约定](https://github.com/volicano/arts/blob/master/week25/r_laravel_3.md)
 + week26: [服务提供者](https://github.com/volicano/arts/blob/master/week25/r_laravel_4.md)
 + week27: [Application Structure 应用结构](https://github.com/volicano/arts/blob/master/week27/r_laravel_5.md)
-+ week28: [Applied Architecture: 解耦](https://github.com/volicano/arts/blob/master/week28/r_laravel_6.md)
++ week28: [实用做法：解耦处理函数](https://github.com/volicano/arts/blob/master/week28/r_laravel_6.md)
 
 
 ## Tip
