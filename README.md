@@ -60,6 +60,8 @@
 + week24: [laravel控制反转容器?](https://github.com/volicano/arts/blob/master/week24/r_laravel_2.md)
 + week25: [laravel接口约定](https://github.com/volicano/arts/blob/master/week25/r_laravel_3.md)
 + week26: [服务提供者](https://github.com/volicano/arts/blob/master/week25/r_laravel_4.md)
++ week27: [Application Structure 应用结构](https://github.com/volicano/arts/blob/master/week27/r_laravel_5.md)
++ week28: [Applied Architecture: 解耦](https://github.com/volicano/arts/blob/master/week28/r_laravel_6.md)
 
 
 ## Tip
@@ -91,6 +93,8 @@
 + week24: [数据库操作行为规范](https://github.com/volicano/arts/blob/master/week24/t_mysql_op_rule.md) 
 + week25: [Windows10下(开启)关闭Hyper-V服务](https://github.com/volicano/arts/blob/master/week25/t_hyper-v.md) 
 + week26: [notepad++排序和去重](https://github.com/volicano/arts/blob/master/week26/t_notepad.md) 
++ week27: [mysql合并重复列值（一对多合并查询）](https://github.com/volicano/arts/blob/master/week27/t_mysql_merge.md) 
++ week28: [Notepad++的列编辑功能](https://github.com/volicano/arts/blob/master/week28/t_notepad_col_sort.md) 
 
 
 ## Share
