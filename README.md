@@ -123,4 +123,5 @@
 + week21: [寒窑赋 (全文)](https://github.com/volicano/arts/blob/master/week21/s_hyf.md)
 + week23: [shell命令帮助](https://github.com/volicano/arts/blob/master/week23/s_cmd.md)
 + week24: [经典数据结构B树与B+树](https://github.com/volicano/arts/blob/master/week24/s_btree.md)
-                 
++ week25: [如何讲清楚技术方案](https://github.com/volicano/arts/blob/master/week25/s_technical_solution.md)
+                   
